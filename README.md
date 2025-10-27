@@ -1,7 +1,11 @@
 # Elevate labs task 5
 
 ## DELIVERABLES -
-SCREENSHOTS:
+
+### Note:-
+I created and configured a PostgreSQL database on Azure. I learned how to create users, assign roles, set database ownership, and manage privileges. I also understood the use of default tablespaces and the azure_pg_admin role in Azure-managed PostgreSQL.
+
+### SCREENSHOTS:
 <br />
 Successful Deployment:
 <img width="1920" height="1080" alt="deployed" src="https://github.com/user-attachments/assets/6cf0ebfd-2bb3-4381-9d6c-9de8626fa384" />
