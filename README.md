@@ -20,6 +20,7 @@ Connecting using python:
 <br />
 SQL Commands Used:
 <br />
+
 ```sql
 CREATE DATABASE intern_demo
     WITH OWNER = postgres
