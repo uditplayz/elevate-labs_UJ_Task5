@@ -46,7 +46,8 @@ CREATE TABLE students (
 INSERT INTO students (name, domain, score)
 VALUES
   ('Aarav', 'Cloud', 95),
-  ('Diya', 'DevOps', 89);```
+  ('Diya', 'DevOps', 89);
+```
 
 ```sql
 SELECT * FROM students;
