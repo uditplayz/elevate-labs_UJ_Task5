@@ -25,7 +25,8 @@ CREATE DATABASE intern_demo
     WITH OWNER = postgres
     ENCODING = 'UTF8'
     CONNECTION LIMIT = -1
-    TABLESPACE = pg_default;```
+    TABLESPACE = pg_default;
+```
 
 ```sql
 CREATE TABLE students (
@@ -33,7 +34,8 @@ CREATE TABLE students (
   name VARCHAR(50),
   domain VARCHAR(30),
   score INT
-);```
+);
+```
 
 ```sql
 INSERT INTO students (name, domain, score)
@@ -42,5 +44,5 @@ VALUES
   ('Diya', 'DevOps', 89);```
 
 ```sql
-SELECT * FROM students;```
-
+SELECT * FROM students;
+```
